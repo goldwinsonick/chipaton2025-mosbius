@@ -34,7 +34,7 @@ Here are quick links to important files and folders.
 ## Jump to
 
 Quick Links to contents:
-* [Core Simulation Result](https://github.com/goldwinsonick/chipaton2025-mosbius/tree/main/Project/1-on-chip/schematic)
+* [`Core Simulation Result`](https://github.com/goldwinsonick/chipaton2025-mosbius/tree/main/Project/1-on-chip/schematic)
 
 ## Blocks
 
