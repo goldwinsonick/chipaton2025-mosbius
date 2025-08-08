@@ -20,7 +20,7 @@ This educational kit is composed of two main parts:
 
 To learn more about the development and documentation, you can refer to these sources.
 
-- Our [**Revised Prof Morbius Proposal**](https://drive.google.com/file/d/1uSmN1Kq2bPWWUJlL5vvVy811TZmL9LWt/view?usp=sharing) contains the explanation about the project's plan.
+- Our [**Revised Prof Morbius Proposal**](https://drive.google.com/file/d/1uSmN1Kq2bPWWUJlL5vvVy811TZmL9LWt/view?usp=sharing) contains the explanation about the project's plan and detail. (The document also contains the detail about the pinlist, block diagrams, and project tracker)
 
 - The Learning Kit will consist of Custom Chip Design and PCB Design that contains everything needed for the FHSS System. For the FHSS Learning Kit Module, please refer to [**FHSS Learning Kit**](./docs/system_architecture.md)
 
