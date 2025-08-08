@@ -15,8 +15,8 @@ The heart of our learning kit is a custom-designed IC containing two critical bl
 | Pin   | I/O   | Purpose |
 |-------|-------|---------|
 | CLK   | Input | **System Clock**  <br> This is the "trigger." to make all the flip-flops change state at the exact same time, keeping the system synchronized. |
-| Q₀    | Output| **Main Output**  <br> Output from the flip-flops forming the parallel channel number. |
-| Qbar₀ | Output| **"Secondary" Output**  <br> This pin always outputs the exact opposite of the Q pin. Not typically used in a PN Sequence Generator. |
+| Q    | Output| **Main Output**  <br> Output from the flip-flops forming the parallel channel number. (4-bit) |
+| SEED | Input| **"Input**  <br> Input to initialize pn sequences (4-bit except '0000'). |
 
 ## 2. Gilbert Cell Mixer
 
