@@ -14,7 +14,7 @@ The goal of this project is to create the **reconfigurable mixer** and **PN sequ
 
 This educational kit is composed of two main parts:
 
-1. **The FHSS Learning Kit Module**: A hardware platform including a custom-designed IC, a PCB with all necessary analog circuits, and the MOSBius chip for experimentation.
+1. **The FHSS Learning Kit Module**: A hardware platform including a custom-designed IC (Mixer and PN Sequence generator), a PCB with all necessary analog circuits, and the MOSBius chip for experimentation.
 
 2. **The Practicum Guide**: A comprehensive laboratory manual that guides students through experiments to understand FHSS concepts from the ground up.
 
