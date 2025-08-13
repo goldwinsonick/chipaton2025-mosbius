@@ -10,7 +10,7 @@ This project is our team's submission for the SSCS Chipathon 2025 (MOSBius Track
 
 ## The Project
 
-The goal of this project is to create the **FHSS Educational Learning Kit**.
+The goal of this project is to create the **reconfigurable mixer** and **PN sequence generator** for **FHSS Educational Learning Kit**.
 
 This educational kit is composed of two main parts:
 
