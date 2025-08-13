@@ -32,10 +32,10 @@ Implementation and Verification for On-Chip Design is done in the [**prof-morbiu
 
 Below are the specifics for our chip
 
-**Chip Diagram**
+### **Chip Diagram**
 <img width="1074" height="603" alt="image" src="https://github.com/user-attachments/assets/d0b4bd6f-b3f1-494b-8c09-299ffa4ecb3b" />
 
-**Pin List**
+### **Pin List**
 
 Physical Specification:
 * Estimated Die Size = 0.64 mm²
