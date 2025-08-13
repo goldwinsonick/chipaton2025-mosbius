@@ -27,3 +27,16 @@ To learn more about the development and documentation, you can refer to these so
 - For the FHSS Practicum Guide Module, please refer to [**FHSS Laboratory Module**](https://drive.google.com/file/d/1QCHJ8PP__YJWEzheR70c9E-Kh2Sm1mwg/view?usp=sharing)
 
 Implementation and Verification for On-Chip Design is done in the [**prof-morbius-rf-chip**](https://github.com/orpheus016/prof-morbius-rf-chip) repository.
+
+## Pin Out and Estimated Die Size
+
+Below are the specifics for our chip
+
+**Chip Diagram**
+<img width="1074" height="603" alt="image" src="https://github.com/user-attachments/assets/d0b4bd6f-b3f1-494b-8c09-299ffa4ecb3b" />
+
+**Pin List**
+
+Physical Specification:
+* Estimated Die Size = 0.64 mm²
+* Pin Out Total = 18 Pins inclluding power source and grounds
