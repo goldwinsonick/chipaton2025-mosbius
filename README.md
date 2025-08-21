@@ -56,7 +56,7 @@ Below are the specifics for our chip
 <img width="1074" height="603" alt="image" src="https://github.com/user-attachments/assets/d0b4bd6f-b3f1-494b-8c09-299ffa4ecb3b" />
 
 ### **Pin List**
-[Pin Out for Chip](https://docs.google.com/spreadsheets/d/18HR78fnGThzPCsXFfm8-xt0L0svZYrWRMBf2fwXZswk/edit?usp=sharing)
+[Pin Out for Chip](https://docs.google.com/spreadsheets/d/1A0twvZW12Nwl6vrAvEvqR2zHr6XRQmD28uH46m98HfQ/edit?usp=sharing)
 
 Physical Specification:
 * Estimated Die Size = 0.64 mm²
