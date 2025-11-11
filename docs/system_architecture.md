@@ -1,6 +1,6 @@
 # System Architecture
 
-This page details the high-level hardware design of the FHSS Learning Kit. The system is a hybrid design, combining a custom-designed integrated circuit with commercial off-the-shelf (COTS) components and the versatile MOSBius switch matrix.
+The system we are imagining includes the modulated FSK signal as the input and demodulated signal as the output. More detail on this diagram.
 
 <p align="center">
     <img src="./assets/diagram_system_architecture.png">
